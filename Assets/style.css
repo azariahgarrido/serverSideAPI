@@ -1,0 +1,181 @@
+#mainHead {
+    background-color: blue;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+#search {
+    margin-top: 1px;
+    margin-bottom: 20px;
+    background-color: blue;
+    color: white;
+}
+
+#lastmin {
+    border-style: solid;
+    border-width: 1px;
+}
+
+#Bone {
+    height: 21px;
+}
+
+#Btwo {
+    height: 21px;
+}
+
+#Bthree {
+    height: 21px;
+}
+
+#Bfour {
+    height: 21px;
+}
+
+#Bfive {
+    height: 21px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+#sectionOne {
+    display: flex;
+    flex-direction: column;
+    max-width: 25%;
+    padding-right: 10px;
+    padding-bottom: 50px;
+}
+
+#sectionTwo {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#sectionThree {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#sectionFour {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#sectionFive {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#sectionSix {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#sectionSeven {
+    margin-top: 3px;
+    width: 80px;
+}
+
+#sectionNine {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#sectionTen {
+    display: flex;
+    flex-direction: row;
+}
+
+#secone {
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 3px;
+}
+
+#sectwo {
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#secthree {
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#secfour {
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#secfive {
+    background-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 3px;
+}
+
+#timeone {
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+#timetwo {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#timethree {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#timefour {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#timefive {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#timesix {
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+#newButtons {
+    display: flex;
+    flex-direction: column;
+}
+
+#div {
+    display: none;
+}
